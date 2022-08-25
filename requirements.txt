@@ -1,0 +1,16 @@
+asgiref==3.5.2
+async-timeout==4.0.2
+autopep8==1.7.0
+certifi==2022.6.15
+Deprecated==1.2.13
+Django==4.1
+easy-thumbnails==2.8.3
+packaging==21.3
+Pillow==9.2.0
+pycodestyle==2.9.1
+pyparsing==3.0.9
+redis==4.3.4
+sqlparse==0.4.2
+toml==0.10.2
+tzdata==2022.2
+wrapt==1.14.1
